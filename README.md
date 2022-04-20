@@ -17,7 +17,7 @@ The purpose of this project is to perform unspervised Ml to categorize the data 
 
 
 ## Project Description
-The purpose of the project is to do unsupervised machine learning on the dataset to find the optimal clusters. Dataset has   rows and   column. The columns are namely :
+The purpose of the project is to do unsupervised machine learning on the dataset to find the optimal clusters. Dataset has  7787 rows and 12 column. The columns are namely :
 1. show_id : Unique ID for every Movie / Tv Show
 2. type : Identifier - A Movie or TV Show
 3. title : Title of the Movie / Tv Show
